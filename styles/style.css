@@ -53,12 +53,8 @@ body {
 
 .header__logo {
   grid-column: 2;
-  background-image: url(../images/logo-black.svg);
   width: 148px;
   height: 105px;
-  background-repeat: no-repeat;
-  background-position: center;
-  align-self: start;
 }
 
 .header__address {
